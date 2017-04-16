@@ -25,9 +25,9 @@ import {
   View,
 } from 'react-vr';
 
-import InfoButton from './InfoButton';
-import NavButton from './NavButton';
-import LoadingSpinner from './LoadingSpinner';
+import InfoButton from './components/InfoButton';
+import NavButton from './components/NavButton';
+import LoadingSpinner from './components/LoadingSpinner';
 
 /**
  * ReactVR component that allows a simple tour using linked 360 photos.

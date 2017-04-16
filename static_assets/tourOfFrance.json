@@ -1,0 +1,100 @@
+{
+   "nav_icon": "loc2.png",
+   "firstPhotoId":"1",
+   "firstPhotoRotation":150,
+   "photos":{
+      "1":{
+         "rotationOffset": 0,
+         "uri":"1.jpg",
+         "tooltips":[
+            {
+               "text":"Paris",
+               "rotationY": -115,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"Arc de Triomphe",
+               "rotationY": 40.844,
+               "linkedPhotoId":"3"
+            },
+            {
+               "text":"The Louvre",
+               "rotationY": -30.42,
+               "linkedPhotoId":"4"
+            }
+         ]
+      },
+      "2":{
+         "rotationOffset": -120,
+         "uri":"2.jpg",
+         "tooltips":[
+            {
+               "text":"Eiffel Tower",
+               "rotationY": -90,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"Arc de Triomphe",
+               "rotationY": 40.525,
+               "linkedPhotoId":"3"
+            },
+            {
+               "text":"The Louvre",
+               "rotationY": -30.525,
+               "linkedPhotoId":"4"
+            },
+            {
+               "type": "textblock",
+               "title": "The Chester",
+               "text": "An American restaurant, bar, and private event space located in The Gansevoort Hotel in New York City, The Chester is designed to bring guests together at any time of day. It features a vibrant bar scene and a lively dining ara, as well as an exclusive boutique nightclub and outdoor beirgarten.",
+               "attribution": "360 Photos courtesy of Oyster.com, text from TheChester.com",
+               "rotationY": -10,
+               "width": 1.5,
+               "height": 1.5
+            }
+         ]
+      },
+      "3":{
+         "rotationOffset": -30,
+         "uri":"3.jpg",
+         "tooltips":[
+            {
+               "text":"Eiffel Tower",
+               "rotationY": 21.347,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"Paris",
+               "rotationY": 117.441,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"The Louvre",
+               "rotationY": -151.392,
+               "linkedPhotoId":"4"
+            }
+         ]
+      },
+      "4":{
+         "rotationOffset": 80,
+         "uri":"4.jpg",
+         "tooltips":[
+            {
+               "text":"Eiffel Tower",
+               "rotationY": -11.33789063,
+               "linkedPhotoId":"1"
+            },
+            {
+               "text":"Paris",
+               "rotationY": -112.2363281,
+               "linkedPhotoId":"2"
+            },
+            {
+               "text":"Arc de Triomphe",
+               "rotationY": -50.2363281,
+               "linkedPhotoId":"3"
+            }
+         ]
+      }
+   }
+}
